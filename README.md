@@ -1,5 +1,6 @@
 # base-BigDecimal
 Java在java.math包中提供的API类BigDecimal，用来对超过16位有效位的数进行精确的运算。
+
 二、构造器描述
 BigDecimal(int)       创建一个具有参数所指定整数值的对象。
 BigDecimal(double) 创建一个具有参数所指定双精度值的对象。
